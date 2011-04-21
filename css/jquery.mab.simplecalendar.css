@@ -1,0 +1,10 @@
+#calendar table { border-collapse: collapse; border: solid 1px #000000; margin: 15px 15px 0 15px; }
+
+#calendar th { border: solid 1px #000000; font-size: 14px; padding: 4px 7px 3px 6px; }
+#calendar th.monthname { background-color: #999999; color: #ffffff; }
+
+#calendar td { background-color: #e0e0e0; border: solid 1px #000000; text-align: center; vertical-align: middle; font-size: 22px; font-weight: bold; padding: 0; height: 50px; }
+#calendar a { background-color: #ffffff; cursor: default; background-position: 2px 2px; background-repeat: no-repeat; display: block; width: 50px; height: 50px; line-height: 50px; } 
+#calendar a.booked { background-color: #ff0000; }
+
+#MO, #TU, #WE, #TH, #FR, #SA, #SU { }
