@@ -1,0 +1,1 @@
+This plugin gives you a simple way to create a calendar month table for a specified month/year, with a bindable click event when a date is clicked. Not much else, really!
