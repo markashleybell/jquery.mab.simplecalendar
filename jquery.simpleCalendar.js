@@ -115,7 +115,7 @@
 
         el.html(output.join(""));
 
-        $(el.attr('id') + 'td a').bind('click', opts.dayClick);
+        $('#' + el.attr('id') + ' td a').bind('click', opts.dayClick);
     }
 
     function getDaysInMonth(month, year) {
